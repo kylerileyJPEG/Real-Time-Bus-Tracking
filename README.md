@@ -1,16 +1,15 @@
 # Real-Time-Bus-Tracking
 # Description
-This exercise uses the character from the popular Japanese "Pac-Man" video game franchise. This code does not create the actual PacMan game but instead clones the character within a box. Two options will be given, "start game" and "Add PacMan" - "Start Game" runs the program and "Add PacMan" clones the PacMan. The PacMen generated are given random speeds to move/bounce across the screen.
+This exercise uses data pulled from the Massachusetts Bay Transportation Authority to show a bird's-eye view of all the bus stops between MIT and Harvard. This code uses an API from MapBox in order to create the geopmap used to visualize the data. (Mapbox is a mapping and location cloud platform for developers).
 # How to Run
 - Fork this exercise to your own Github
 - Clone a copy to your IDE of choice
 - Drag/open the file labeled "index.html" into your browser/live
-- Click "Start Game"
-- Click "Add PacMan"
+- Click "Show stops between MIT and Harvard"
 
 # Roadmap of future improvements
-- Use other characters other than "Pac Man"
-- Have these characters interact with each other
+- Use data from other states
+- Change subject to popular beach destinations (view "Best Beaches to Surf in San Diego)
 
 # License
 MIT License
